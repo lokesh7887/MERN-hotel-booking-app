@@ -1,0 +1,9 @@
+creation of frontend and backend 
+then we created some basic in the backend such as creation of the mongoose connection and the server is running on the some port 
+then we go to the frontend part created the component folder and then created some components and then we render those files in the layouts folder
+in the layout folder we created layout.tsx for representation 
+
+app.tsx is used for the routing those pages in it such layout file is one route for the home page of the website
+
+when we create the sigup process in that time we gone go to the backend folder then we
+create the new folder called model in the src
